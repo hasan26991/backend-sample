@@ -1,0 +1,4 @@
+20221021	19:26:54	bae6de70-5efa-4016-b2c9-032fa7fa98a3	Error: ENOENT: no such file or directory, stat 'C:\Users\hasan\Desktop\backend\views\index.html'
+20221022	20:11:12	fc23ccdd-d1c5-434a-9228-9b0e8e4247af	Error: Not allowed by CORS
+20221022	20:11:12	c8d02066-55cc-415e-80ae-977bd9723e9a	Error: Not allowed by CORS
+20221024	00:32:20	c205baa9-7db7-40d5-9d88-3106f1811e00	ReferenceError: result is not defined
