@@ -2,3 +2,4 @@
 20221022	20:11:12	fc23ccdd-d1c5-434a-9228-9b0e8e4247af	Error: Not allowed by CORS
 20221022	20:11:12	c8d02066-55cc-415e-80ae-977bd9723e9a	Error: Not allowed by CORS
 20221024	00:32:20	c205baa9-7db7-40d5-9d88-3106f1811e00	ReferenceError: result is not defined
+20230211	16:30:53	1e2b3327-a30e-4ee7-907a-a6caf537fb79	SyntaxError: Unexpected string in JSON at position 38
